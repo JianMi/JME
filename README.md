@@ -1,2 +1,1 @@
-# JME
-Decentralized application Wallet Integrating Social Communication and Exchange
+融合社交及交易所的去中心化应用钱包
